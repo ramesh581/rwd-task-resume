@@ -1,0 +1,51 @@
+#profile{
+    position: relative;
+    height: 250px;
+    background:linear-gradient(180deg,grey 80%,white 80% 90%,grey 90%);
+}
+
+#pic{
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    height: 155px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: -75px;
+    border: 5px dotted orange;
+}
+#name{
+    position: absolute;
+    left: 50%;
+    top: 180px;
+    font-size: 24px;
+    width: 250px;
+    background-color: orange;
+    margin-left: -125px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+#address{
+    text-align: center;
+    padding: 5px;
+    border-bottom: 1px solid #000;
+}
+#details{
+    padding: 20px;
+    margin: 5px;
+}
+.headings{
+     font-size: 20px;
+}
+#icon{
+    color: orange;
+    background-color: grey;
+    border: 2px dotted orange;
+    border-radius: 50%;
+    padding: 5px;
+    margin: 10px;
+}
+.description{
+    margin: 10px;
+}
